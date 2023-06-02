@@ -29,6 +29,9 @@ body {
 .game-over {
   background-color: red;
   opacity: 0.8;
+  background-image: url(./mightykeef.png);
+  background-repeat: no-repeat;
+  background-position: 50%;
 }
 
 .red {
